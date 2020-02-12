@@ -24,4 +24,5 @@ console.log(listRev2);
 // The map function executes the function is the map parenthesis on each element in an array.
 // Im not exactly sure about the "transformation function" being refered to as a callback function
 //but from what I've read, we are able to do something after the function is executed for each
-//array element.
+//array element. 
+//
